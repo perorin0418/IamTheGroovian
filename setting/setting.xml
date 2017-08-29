@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<setting>
+    <driverPath>.\\driver\\chromedriver.exe</driverPath>
+    <frameHeight>775</frameHeight>
+    <frameWidth>1083</frameWidth>
+    <frameX>305</frameX>
+    <frameY>172</frameY>
+    <groovyConsolePath>.\\groovy-2.4.12\\bin\\groovyConsole.bat</groovyConsolePath>
+    <groovyExePath>.\\groovy-2.4.12\\bin\\groovy.bat</groovyExePath>
+    <splitHorizontalValue>718</splitHorizontalValue>
+    <splitVertivalValue>347</splitVertivalValue>
+    <spockOutputPath>.\\build\\spock-reports</spockOutputPath>
+    <workspacePath>.\\workspace</workspacePath>
+</setting>
